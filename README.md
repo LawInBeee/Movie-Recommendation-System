@@ -1,4 +1,4 @@
-Dataset from: https://grouplens.org/datasets/movielens/
+Dataset from: https://grouplens.org/datasets/movielens/ml-latest.zip
 
 The Object：
 - Build a collaborative filtering recommendation system based on users' rating data.
